@@ -1,3 +1,7 @@
+# GDSC Fessior Assessment
+
+Our task is to build and deploy a TV show web app on the internet with the implementation about the TVMaze API. The app will be an all-in-one place for TV shows lover to view news and information of their favorite TV shows. Take TVMaze Webpage as an example.
+
 # Assessment Group 7
 
 Features:
